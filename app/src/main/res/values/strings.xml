@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">애드랠리</string>
+    <string name="url">http://www.adrally.co.kr/index.php</string>
+    <string name="domain">http://www.adrally.co.kr/</string>
+    <string name="domain2">http://www.adrally.co.kr/</string>
+</resources>
